@@ -44,7 +44,7 @@ The provided JSON data contains two main objects:
 
 ## Requirements
 
-- >= Python 3.9
+- \>= Python 3.9
 - pandas
 - scikit-learn
 - Docker
