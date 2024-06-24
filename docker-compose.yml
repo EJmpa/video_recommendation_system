@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  videorecommendationsystem:
+    image: videorecommendationsystem
+    build:
+      context: .
+      dockerfile: ./Dockerfile
