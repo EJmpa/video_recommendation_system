@@ -53,6 +53,7 @@ The provided JSON data contains two main objects:
 Install the required Python packages using:
 ```sh
 pip install -r requirements.txt
+```
 
 1. Clone the repository:
 
