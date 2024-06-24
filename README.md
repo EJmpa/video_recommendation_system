@@ -58,7 +58,7 @@ pip install -r requirements.txt
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/ejmpa/videorecommendationsystem.git
+    git clone https://github.com/<your username>/videorecommendationsystem.git
     cd videorecommendationsystem
     ```
 
